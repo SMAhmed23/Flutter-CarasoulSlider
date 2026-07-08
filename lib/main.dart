@@ -5,7 +5,6 @@ import 'package:cached_network_image/cached_network_image.dart';
 void main() {
   runApp(const MyApp());
 }
-
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
